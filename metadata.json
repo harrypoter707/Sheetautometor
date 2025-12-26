@@ -1,0 +1,6 @@
+
+{
+  "name": "SheetURL Automator",
+  "description": "A professional tool to batch-process and submit URLs directly from Google Sheets with duplicate detection and flexible scheduling.",
+  "requestFramePermissions": []
+}
